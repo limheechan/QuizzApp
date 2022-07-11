@@ -7,3 +7,4 @@
 
 
 
+![Simulator Screen Recording - iPhone 12 Pro - 2022-07-11 at 16 37 32](https://user-images.githubusercontent.com/101173361/178213061-43408ed9-9d54-4899-9aff-a70bd91fe24c.gif)
