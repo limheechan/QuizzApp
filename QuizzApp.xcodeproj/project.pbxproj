@@ -44,6 +44,7 @@
 		D7D7C0A9287BC896003FE15A = {
 			isa = PBXGroup;
 			children = (
+				D7D7C0CB287C0A01003FE15A /* README.md */,
 				D7D7C0B4287BC896003FE15A /* QuizzApp */,
 				D7D7C0B3287BC896003FE15A /* Products */,
 			);
@@ -68,7 +69,6 @@
 				D7D7C0C0287BC898003FE15A /* LaunchScreen.storyboard */,
 				D7D7C0C3287BC898003FE15A /* Info.plist */,
 				D7D7C0C9287C01DF003FE15A /* Question.swift */,
-				D7D7C0CB287C0A01003FE15A /* README.md */,
 			);
 			path = QuizzApp;
 			sourceTree = "<group>";
